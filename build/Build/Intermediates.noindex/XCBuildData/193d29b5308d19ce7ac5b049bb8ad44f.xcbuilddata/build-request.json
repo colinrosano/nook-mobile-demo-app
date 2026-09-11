@@ -1,0 +1,70 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "0e5d5d6569a448d24d655dcdc956d7be649073d032e415355da582e6c97051f2"
+    }
+  ],
+  "containerPath" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/Nook.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "hostTargetedPlatform" : null,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator26.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Products",
+      "derivedDataPath" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build",
+      "indexDataStoreFolderPath" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "CODE_SIGNING_ALLOWED" : "NO"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone18,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "26.5",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone18,1",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "07722015-5A71-4796-A026-BEF5CCCD6806",
+          "TARGET_DEVICE_MODEL" : "iPhone18,1",
+          "TARGET_DEVICE_OS_VERSION" : "26.5",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

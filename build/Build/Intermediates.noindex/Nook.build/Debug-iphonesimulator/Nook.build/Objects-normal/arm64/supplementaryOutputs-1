@@ -1,0 +1,23 @@
+{
+  "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/Nook/Models/Order.swift" : {
+    "const-values" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/Order.swiftconstvalues",
+    "dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/Order.d",
+    "diagnostics" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/Order.dia",
+    "object" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/Order.o",
+    "swift-dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/Order.swiftdeps"
+  },
+  "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/Nook/Models/Product.swift" : {
+    "const-values" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/Product.swiftconstvalues",
+    "dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/Product.d",
+    "diagnostics" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/Product.dia",
+    "object" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/Product.o",
+    "swift-dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/Product.swiftdeps"
+  },
+  "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/Nook/Stores/ShopStore.swift" : {
+    "const-values" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ShopStore.swiftconstvalues",
+    "dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ShopStore.d",
+    "diagnostics" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ShopStore.dia",
+    "object" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ShopStore.o",
+    "swift-dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ShopStore.swiftdeps"
+  }
+}

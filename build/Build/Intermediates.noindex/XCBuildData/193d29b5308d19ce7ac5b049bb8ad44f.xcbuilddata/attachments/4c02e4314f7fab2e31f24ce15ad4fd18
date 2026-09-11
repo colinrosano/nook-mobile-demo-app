@@ -1,0 +1,4 @@
+module FakeMarketingSDK {
+header "FakeMarketingSDK-Swift.h"
+export *
+}

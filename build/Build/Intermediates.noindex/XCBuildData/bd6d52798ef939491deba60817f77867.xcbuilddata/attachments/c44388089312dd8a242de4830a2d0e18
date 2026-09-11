@@ -1,0 +1,4 @@
+module FakeAnalyticsSDK {
+header "FakeAnalyticsSDK-Swift.h"
+export *
+}

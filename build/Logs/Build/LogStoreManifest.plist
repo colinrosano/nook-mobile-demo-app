@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>12</integer>
+	<key>logs</key>
+	<dict>
+		<key>0C8C78D6-155A-4671-AB4B-AB54FEBB1215</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0C8C78D6-155A-4671-AB4B-AB54FEBB1215.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>2</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Nook project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Nook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project Nook with scheme Nook and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>810657514.86661899</real>
+			<key>timeStoppedRecording</key>
+			<real>810657519.90324795</real>
+			<key>title</key>
+			<string>Building project Nook with scheme Nook and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>0C8C78D6-155A-4671-AB4B-AB54FEBB1215</string>
+		</dict>
+		<key>BB984850-2921-4D07-AE43-E39E5E6B9ABC</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BB984850-2921-4D07-AE43-E39E5E6B9ABC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Nook project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Nook</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project Nook with scheme Nook and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>810658216.47953701</real>
+			<key>timeStoppedRecording</key>
+			<real>810658220.43206501</real>
+			<key>title</key>
+			<string>Building project Nook with scheme Nook and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>BB984850-2921-4D07-AE43-E39E5E6B9ABC</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

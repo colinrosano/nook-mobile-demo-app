@@ -1,0 +1,209 @@
+{
+  "" : {
+    "diagnostics" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/Nook-primary.dia",
+    "emit-module-dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/Nook-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/Nook-primary-emit-module.dia",
+    "pch" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/Nook-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/Nook-primary.swiftdeps"
+  },
+  "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/Nook/Models/Order.swift" : {
+    "const-values" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/Order.swiftconstvalues",
+    "dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/Order.d",
+    "diagnostics" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/Order.dia",
+    "index-unit-output-path" : "/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/Order.o",
+    "llvm-bc" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/Order.bc",
+    "object" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/Order.o",
+    "swift-dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/Order.swiftdeps",
+    "swiftmodule" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/Order~partial.swiftmodule"
+  },
+  "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/Nook/Models/Product.swift" : {
+    "const-values" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/Product.swiftconstvalues",
+    "dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/Product.d",
+    "diagnostics" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/Product.dia",
+    "index-unit-output-path" : "/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/Product.o",
+    "llvm-bc" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/Product.bc",
+    "object" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/Product.o",
+    "swift-dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/Product.swiftdeps",
+    "swiftmodule" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/Product~partial.swiftmodule"
+  },
+  "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/Nook/NookApp.swift" : {
+    "const-values" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/NookApp.swiftconstvalues",
+    "dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/NookApp.d",
+    "diagnostics" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/NookApp.dia",
+    "index-unit-output-path" : "/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/NookApp.o",
+    "llvm-bc" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/NookApp.bc",
+    "object" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/NookApp.o",
+    "swift-dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/NookApp.swiftdeps",
+    "swiftmodule" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/NookApp~partial.swiftmodule"
+  },
+  "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/Nook/Stores/ShopStore.swift" : {
+    "const-values" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ShopStore.swiftconstvalues",
+    "dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ShopStore.d",
+    "diagnostics" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ShopStore.dia",
+    "index-unit-output-path" : "/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ShopStore.o",
+    "llvm-bc" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ShopStore.bc",
+    "object" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ShopStore.o",
+    "swift-dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ShopStore.swiftdeps",
+    "swiftmodule" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ShopStore~partial.swiftmodule"
+  },
+  "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/Nook/Support/ConsentGate.swift" : {
+    "const-values" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ConsentGate.swiftconstvalues",
+    "dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ConsentGate.d",
+    "diagnostics" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ConsentGate.dia",
+    "index-unit-output-path" : "/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ConsentGate.o",
+    "llvm-bc" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ConsentGate.bc",
+    "object" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ConsentGate.o",
+    "swift-dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ConsentGate.swiftdeps",
+    "swiftmodule" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ConsentGate~partial.swiftmodule"
+  },
+  "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/Nook/Support/DemoDriver.swift" : {
+    "const-values" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/DemoDriver.swiftconstvalues",
+    "dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/DemoDriver.d",
+    "diagnostics" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/DemoDriver.dia",
+    "index-unit-output-path" : "/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/DemoDriver.o",
+    "llvm-bc" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/DemoDriver.bc",
+    "object" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/DemoDriver.o",
+    "swift-dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/DemoDriver.swiftdeps",
+    "swiftmodule" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/DemoDriver~partial.swiftmodule"
+  },
+  "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/Nook/Support/DemoLog.swift" : {
+    "const-values" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/DemoLog.swiftconstvalues",
+    "dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/DemoLog.d",
+    "diagnostics" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/DemoLog.dia",
+    "index-unit-output-path" : "/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/DemoLog.o",
+    "llvm-bc" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/DemoLog.bc",
+    "object" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/DemoLog.o",
+    "swift-dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/DemoLog.swiftdeps",
+    "swiftmodule" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/DemoLog~partial.swiftmodule"
+  },
+  "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/Nook/Support/OsanoService.swift" : {
+    "const-values" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/OsanoService.swiftconstvalues",
+    "dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/OsanoService.d",
+    "diagnostics" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/OsanoService.dia",
+    "index-unit-output-path" : "/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/OsanoService.o",
+    "llvm-bc" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/OsanoService.bc",
+    "object" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/OsanoService.o",
+    "swift-dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/OsanoService.swiftdeps",
+    "swiftmodule" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/OsanoService~partial.swiftmodule"
+  },
+  "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/Nook/Support/Theme.swift" : {
+    "const-values" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/Theme.swiftconstvalues",
+    "dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/Theme.d",
+    "diagnostics" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/Theme.dia",
+    "index-unit-output-path" : "/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/Theme.o",
+    "llvm-bc" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/Theme.bc",
+    "object" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/Theme.o",
+    "swift-dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/Theme.swiftdeps",
+    "swiftmodule" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/Theme~partial.swiftmodule"
+  },
+  "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/Nook/Views/Cart/CartView.swift" : {
+    "const-values" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/CartView.swiftconstvalues",
+    "dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/CartView.d",
+    "diagnostics" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/CartView.dia",
+    "index-unit-output-path" : "/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/CartView.o",
+    "llvm-bc" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/CartView.bc",
+    "object" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/CartView.o",
+    "swift-dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/CartView.swiftdeps",
+    "swiftmodule" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/CartView~partial.swiftmodule"
+  },
+  "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/Nook/Views/Cart/CheckoutView.swift" : {
+    "const-values" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/CheckoutView.swiftconstvalues",
+    "dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/CheckoutView.d",
+    "diagnostics" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/CheckoutView.dia",
+    "index-unit-output-path" : "/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/CheckoutView.o",
+    "llvm-bc" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/CheckoutView.bc",
+    "object" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/CheckoutView.o",
+    "swift-dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/CheckoutView.swiftdeps",
+    "swiftmodule" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/CheckoutView~partial.swiftmodule"
+  },
+  "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/Nook/Views/Components/ProductArt.swift" : {
+    "const-values" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ProductArt.swiftconstvalues",
+    "dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ProductArt.d",
+    "diagnostics" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ProductArt.dia",
+    "index-unit-output-path" : "/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ProductArt.o",
+    "llvm-bc" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ProductArt.bc",
+    "object" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ProductArt.o",
+    "swift-dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ProductArt.swiftdeps",
+    "swiftmodule" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ProductArt~partial.swiftmodule"
+  },
+  "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/Nook/Views/Components/ProductCard.swift" : {
+    "const-values" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ProductCard.swiftconstvalues",
+    "dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ProductCard.d",
+    "diagnostics" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ProductCard.dia",
+    "index-unit-output-path" : "/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ProductCard.o",
+    "llvm-bc" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ProductCard.bc",
+    "object" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ProductCard.o",
+    "swift-dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ProductCard.swiftdeps",
+    "swiftmodule" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ProductCard~partial.swiftmodule"
+  },
+  "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/Nook/Views/Profile/ProfileView.swift" : {
+    "const-values" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ProfileView.swiftconstvalues",
+    "dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ProfileView.d",
+    "diagnostics" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ProfileView.dia",
+    "index-unit-output-path" : "/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ProfileView.o",
+    "llvm-bc" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ProfileView.bc",
+    "object" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ProfileView.o",
+    "swift-dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ProfileView.swiftdeps",
+    "swiftmodule" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ProfileView~partial.swiftmodule"
+  },
+  "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/Nook/Views/RootView.swift" : {
+    "const-values" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/RootView.swiftconstvalues",
+    "dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/RootView.d",
+    "diagnostics" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/RootView.dia",
+    "index-unit-output-path" : "/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/RootView.o",
+    "llvm-bc" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/RootView.bc",
+    "object" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/RootView.o",
+    "swift-dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/RootView.swiftdeps",
+    "swiftmodule" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/RootView~partial.swiftmodule"
+  },
+  "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/Nook/Views/Search/SearchView.swift" : {
+    "const-values" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/SearchView.swiftconstvalues",
+    "dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/SearchView.d",
+    "diagnostics" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/SearchView.dia",
+    "index-unit-output-path" : "/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/SearchView.o",
+    "llvm-bc" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/SearchView.bc",
+    "object" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/SearchView.o",
+    "swift-dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/SearchView.swiftdeps",
+    "swiftmodule" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/SearchView~partial.swiftmodule"
+  },
+  "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/Nook/Views/Shop/CategoryView.swift" : {
+    "const-values" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/CategoryView.swiftconstvalues",
+    "dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/CategoryView.d",
+    "diagnostics" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/CategoryView.dia",
+    "index-unit-output-path" : "/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/CategoryView.o",
+    "llvm-bc" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/CategoryView.bc",
+    "object" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/CategoryView.o",
+    "swift-dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/CategoryView.swiftdeps",
+    "swiftmodule" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/CategoryView~partial.swiftmodule"
+  },
+  "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/Nook/Views/Shop/HomeView.swift" : {
+    "const-values" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/HomeView.swiftconstvalues",
+    "dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/HomeView.d",
+    "diagnostics" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/HomeView.dia",
+    "index-unit-output-path" : "/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/HomeView.o",
+    "llvm-bc" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/HomeView.bc",
+    "object" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/HomeView.o",
+    "swift-dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/HomeView.swiftdeps",
+    "swiftmodule" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/HomeView~partial.swiftmodule"
+  },
+  "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/Nook/Views/Shop/ProductDetailView.swift" : {
+    "const-values" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ProductDetailView.swiftconstvalues",
+    "dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ProductDetailView.d",
+    "diagnostics" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ProductDetailView.dia",
+    "index-unit-output-path" : "/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ProductDetailView.o",
+    "llvm-bc" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ProductDetailView.bc",
+    "object" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ProductDetailView.o",
+    "swift-dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ProductDetailView.swiftdeps",
+    "swiftmodule" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/ProductDetailView~partial.swiftmodule"
+  },
+  "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/Nook.build/Debug-iphonesimulator/Nook.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

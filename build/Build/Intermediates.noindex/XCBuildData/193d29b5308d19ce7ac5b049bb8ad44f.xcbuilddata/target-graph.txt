@@ -1,0 +1,12 @@
+Target dependency graph (6 targets)
+Target 'Nook' in project 'Nook'
+➜ Explicit dependency on target 'FakeAnalyticsSDK' in project 'FakeAnalyticsSDK'
+➜ Explicit dependency on target 'FakeMarketingSDK' in project 'FakeMarketingSDK'
+➜ Explicit dependency on target 'ConsentSDK' in project 'ConsentSDK'
+Target 'ConsentSDK' in project 'ConsentSDK' (no dependencies)
+Target 'FakeMarketingSDK' in project 'FakeMarketingSDK'
+➜ Explicit dependency on target 'FakeMarketingSDK' in project 'FakeMarketingSDK'
+Target 'FakeMarketingSDK' in project 'FakeMarketingSDK' (no dependencies)
+Target 'FakeAnalyticsSDK' in project 'FakeAnalyticsSDK'
+➜ Explicit dependency on target 'FakeAnalyticsSDK' in project 'FakeAnalyticsSDK'
+Target 'FakeAnalyticsSDK' in project 'FakeAnalyticsSDK' (no dependencies)

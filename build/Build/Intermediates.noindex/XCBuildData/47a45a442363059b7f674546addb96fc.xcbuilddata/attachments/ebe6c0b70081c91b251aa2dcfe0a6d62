@@ -1,0 +1,19 @@
+{
+  "" : {
+    "diagnostics" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/FakeAnalyticsSDK.build/Debug-iphonesimulator/FakeAnalyticsSDK.build/Objects-normal/arm64/FakeAnalyticsSDK-primary.dia",
+    "emit-module-dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/FakeAnalyticsSDK.build/Debug-iphonesimulator/FakeAnalyticsSDK.build/Objects-normal/arm64/FakeAnalyticsSDK-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/FakeAnalyticsSDK.build/Debug-iphonesimulator/FakeAnalyticsSDK.build/Objects-normal/arm64/FakeAnalyticsSDK-primary-emit-module.dia",
+    "pch" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/FakeAnalyticsSDK.build/Debug-iphonesimulator/FakeAnalyticsSDK.build/Objects-normal/arm64/FakeAnalyticsSDK-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/FakeAnalyticsSDK.build/Debug-iphonesimulator/FakeAnalyticsSDK.build/Objects-normal/arm64/FakeAnalyticsSDK-primary.swiftdeps"
+  },
+  "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/Packages/FakeAnalyticsSDK/Sources/FakeAnalyticsSDK/FakeAnalytics.swift" : {
+    "const-values" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/FakeAnalyticsSDK.build/Debug-iphonesimulator/FakeAnalyticsSDK.build/Objects-normal/arm64/FakeAnalytics.swiftconstvalues",
+    "dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/FakeAnalyticsSDK.build/Debug-iphonesimulator/FakeAnalyticsSDK.build/Objects-normal/arm64/FakeAnalytics.d",
+    "diagnostics" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/FakeAnalyticsSDK.build/Debug-iphonesimulator/FakeAnalyticsSDK.build/Objects-normal/arm64/FakeAnalytics.dia",
+    "index-unit-output-path" : "/FakeAnalyticsSDK.build/Debug-iphonesimulator/FakeAnalyticsSDK.build/Objects-normal/arm64/FakeAnalytics.o",
+    "llvm-bc" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/FakeAnalyticsSDK.build/Debug-iphonesimulator/FakeAnalyticsSDK.build/Objects-normal/arm64/FakeAnalytics.bc",
+    "object" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/FakeAnalyticsSDK.build/Debug-iphonesimulator/FakeAnalyticsSDK.build/Objects-normal/arm64/FakeAnalytics.o",
+    "swift-dependencies" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/FakeAnalyticsSDK.build/Debug-iphonesimulator/FakeAnalyticsSDK.build/Objects-normal/arm64/FakeAnalytics.swiftdeps",
+    "swiftmodule" : "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/build/Build/Intermediates.noindex/FakeAnalyticsSDK.build/Debug-iphonesimulator/FakeAnalyticsSDK.build/Objects-normal/arm64/FakeAnalytics~partial.swiftmodule"
+  }
+}

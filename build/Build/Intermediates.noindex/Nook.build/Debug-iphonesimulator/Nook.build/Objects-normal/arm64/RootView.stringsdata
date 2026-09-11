@@ -1,0 +1,40 @@
+{
+  "source": "/Users/colinreinhardt/Desktop/Osano/product-dev-projects/nook-mobile-demo-app/Nook/Views/RootView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Shop",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 12
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 15
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cart",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 18
+        }
+      },
+      {
+        "comment": "",
+        "key": "You",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 22
+        }
+      }
+    ]
+  },
+  "version": 1
+}
