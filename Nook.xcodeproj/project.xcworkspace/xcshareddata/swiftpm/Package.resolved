@@ -1,0 +1,15 @@
+{
+  "originHash" : "692be5460c4b6025878e31cfbc5f47ff579fe1c3f382e28a89aae9a9f2649bb6",
+  "pins" : [
+    {
+      "identity" : "cocoapods-specs",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/osano/cocoapods-specs.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "4c18f3cdd9bd611ef9221ed726a1bb49dc3a5713"
+      }
+    }
+  ],
+  "version" : 3
+}
